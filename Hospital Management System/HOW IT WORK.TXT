@@ -1,0 +1,17 @@
+Hello Hocam 
+I hope you fine 
+To run my project you have to follwo these instructions :
+
+1- you have to install Mariadb on your PC.
+
+2- Start Mariadb and run the file "hospital.sql" as a query to create database
+and the tables OR you can creat the database on your database management platform 
+but in this way you must configure the connection URL in the project.
+
+3- Start the file "Hospital_Management_System.jar" to run my project.
+4-The login username and password for Admin Form is "admin", for Doctor Form
+is "Ali" , "doctor" and for Receptionest Form is "Ali" , "RECEP" respectively.
+
+I Hope it as you need.
+
+Thanks a lot.
